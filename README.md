@@ -1,4 +1,4 @@
-# AI-Lap-Simulator
+
 # 🔬 Tài liệu Kỹ thuật: AI Lab - Request Pipeline Simulator
 
 Đây là module thiết kế để trực quan hóa sự vận hành của **Handler Pattern (Chain of Responsibility)** thông qua việc kết hợp giữa giao diện React và trí tuệ nhân tạo Gemini AI.
