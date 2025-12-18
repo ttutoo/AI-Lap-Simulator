@@ -1,0 +1,6 @@
+
+{
+  "name": "ArchEdu - Handler AI Lab",
+  "description": "Trình giả lập chuỗi xử lý (Handler Pattern) thông minh tích hợp Gemini AI.",
+  "requestFramePermissions": []
+}
